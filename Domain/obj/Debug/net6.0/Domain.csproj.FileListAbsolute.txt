@@ -1,0 +1,11 @@
+C:\Repo\passometro-backend\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Repo\passometro-backend\Domain\bin\Debug\net6.0\Domain.dll
+C:\Repo\passometro-backend\Domain\bin\Debug\net6.0\ref\Domain.dll
+C:\Repo\passometro-backend\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Repo\passometro-backend\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\passometro-backend\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Repo\passometro-backend\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Repo\passometro-backend\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Repo\passometro-backend\Domain\obj\Debug\net6.0\Domain.dll
+C:\Repo\passometro-backend\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Repo\passometro-backend\Domain\obj\Debug\net6.0\Domain.pdb

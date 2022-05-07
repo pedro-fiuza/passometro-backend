@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a6bb5456-e542-45c8-85ff-f84bf86ae470": {
+      "ProjectGuid": "a6bb5456-e542-45c8-85ff-f84bf86ae470",
+      "DisplayName": "Domain",
+      "ColorIndex": 0
+    },
+    "525f26d0-308f-4184-9805-660fc23a9885": {
+      "ProjectGuid": "525f26d0-308f-4184-9805-660fc23a9885",
+      "DisplayName": "Infrastructure",
+      "ColorIndex": 1
+    },
+    "88ed8580-e3ee-40c9-a1d4-25bc9143e6a0": {
+      "ProjectGuid": "88ed8580-e3ee-40c9-a1d4-25bc9143e6a0",
+      "DisplayName": "Services",
+      "ColorIndex": 2
+    },
+    "82b2c487-e14f-4d7e-9755-1602a892e28b": {
+      "ProjectGuid": "82b2c487-e14f-4d7e-9755-1602a892e28b",
+      "DisplayName": "passometro-backend",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

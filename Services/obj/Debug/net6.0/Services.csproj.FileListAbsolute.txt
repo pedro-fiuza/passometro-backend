@@ -1,0 +1,17 @@
+C:\Repo\passometro-backend\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+C:\Repo\passometro-backend\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\passometro-backend\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+C:\Repo\passometro-backend\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+C:\Repo\passometro-backend\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+C:\Repo\passometro-backend\Services\bin\Debug\net6.0\Services.deps.json
+C:\Repo\passometro-backend\Services\bin\Debug\net6.0\Services.dll
+C:\Repo\passometro-backend\Services\bin\Debug\net6.0\ref\Services.dll
+C:\Repo\passometro-backend\Services\bin\Debug\net6.0\Services.pdb
+C:\Repo\passometro-backend\Services\bin\Debug\net6.0\Domain.dll
+C:\Repo\passometro-backend\Services\bin\Debug\net6.0\Infrastructure.dll
+C:\Repo\passometro-backend\Services\bin\Debug\net6.0\Domain.pdb
+C:\Repo\passometro-backend\Services\bin\Debug\net6.0\Infrastructure.pdb
+C:\Repo\passometro-backend\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+C:\Repo\passometro-backend\Services\obj\Debug\net6.0\Services.dll
+C:\Repo\passometro-backend\Services\obj\Debug\net6.0\ref\Services.dll
+C:\Repo\passometro-backend\Services\obj\Debug\net6.0\Services.pdb

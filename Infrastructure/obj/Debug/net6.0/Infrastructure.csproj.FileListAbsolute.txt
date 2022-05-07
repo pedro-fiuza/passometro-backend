@@ -1,0 +1,17 @@
+C:\Repo\passometro-backend\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Repo\passometro-backend\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\passometro-backend\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Repo\passometro-backend\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+C:\Repo\passometro-backend\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Repo\passometro-backend\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+C:\Repo\passometro-backend\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+C:\Repo\passometro-backend\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+C:\Repo\passometro-backend\Infrastructure\bin\Debug\net6.0\ref\Infrastructure.dll
+C:\Repo\passometro-backend\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+C:\Repo\passometro-backend\Infrastructure\bin\Debug\net6.0\Domain.dll
+C:\Repo\passometro-backend\Infrastructure\bin\Debug\net6.0\Domain.pdb
+C:\Repo\passometro-backend\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+C:\Repo\passometro-backend\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+C:\Repo\passometro-backend\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+C:\Repo\passometro-backend\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+C:\Repo\passometro-backend\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache

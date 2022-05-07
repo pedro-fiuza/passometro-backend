@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1D4W4S0fYpYN9uVAPSGLlyqSX4agNlVnvb962m/XQgk=",
+  "Source": "passometro-backend",
+  "BasePath": "_content/passometro-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
